@@ -19,7 +19,7 @@ const HomePage = () => {
       )}
       {signer && (
         <>
-          <div className="flex items-center justify-center my-2 w-full xs:mb-2">
+          <div className="flex items-center justify-center my-4 w-full xs:mb-2">
               <a
               href="https://www.youtube.com/channel/UC_7OQZMa8eHONCjMklrYvZg"
               target="_blank"
@@ -28,7 +28,7 @@ const HomePage = () => {
                 <p className="text-lg text-white font-mono font-semibold">VIDEO GUIDE</p>
               </a>
           </div>
-          <div className="my-4 mx-auto xs:my-2">
+          <div className="mx-auto my-2">
             <p className="text-center bg-[#e85a4f] px-2 font-mono font-semibold rounded-full inline-block xxs:text-xs">
               ⬇⬇⬇ Here you can buy some cool NFTs ⬇⬇⬇
             </p>
