@@ -23,12 +23,12 @@ const HomePage = () => {
               <a
               href="https://www.youtube.com/channel/UC_7OQZMa8eHONCjMklrYvZg"
               target="_blank"
-              className="bg-[#e85a4f] rounded-full px-2 text-lg font-mono font-semibold"
+              className="bg-[#e85a4f] rounded-full px-2"
               >
-                <p className="text-sm ml-[2px]">VIDEO GUIDE</p>
+                <p className="text-lg font-mono font-semibold">VIDEO GUIDE</p>
               </a>
           </div>
-          <div className="my-8 relative h-[1px] w-full flex-shrink-0 bg-[#e85a4f] xs:mb-2">
+          <div className="my-6 relative h-[1px] w-full flex-shrink-0 bg-[#e85a4f] xs:mb-2">
             <div className="absolute right-1/2 bottom-1/2 translate-x-1/2 translate-y-1/2 text-black bg-inherit rounded-full px-2 font-mono font-semibold">
               MARKETPLACE
             </div>
