@@ -49,7 +49,7 @@ const NFTCard = (nft, className) => {
       Swal.fire({
         position: 'center',
         icon: 'success',
-        title: 'Purchased!',
+        title: 'Purchased!!!',
         showConfirmButton: false,
         timer: 2000
       })
