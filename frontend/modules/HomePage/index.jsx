@@ -28,7 +28,7 @@ const HomePage = () => {
                 <p className="text-lg text-white font-mono font-semibold">VIDEO GUIDE</p>
               </a>
           </div>
-          <div className="mx-auto my-2">
+          <div className="mx-auto mb-4">
             <p className="text-center bg-[#e85a4f] px-2 font-mono font-semibold rounded-full inline-block xxs:text-xs">
               ⬇⬇⬇ Here you can buy some cool NFTs ⬇⬇⬇
             </p>
