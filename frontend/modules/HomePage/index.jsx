@@ -21,6 +21,14 @@ const HomePage = () => {
         <>
           <div className="my-6 relative h-[1px] w-full flex-shrink-0 bg-[#e85a4f] xs:mb-2">
             <div className="absolute right-1/2 bottom-1/2 translate-x-1/2 translate-y-1/2 text-black bg-inherit rounded-full px-2 font-mono font-semibold">
+              <a
+              href="https://www.youtube.com/channel/UC_7OQZMa8eHONCjMklrYvZg"
+              className="flex items-center"
+              >
+                <p className="text-sm ml-[2px]">VIDEO GUIDE</p>
+              </a>
+            </div>
+            <div className="absolute right-1/2 bottom-1/2 translate-x-1/2 translate-y-1/2 text-black bg-inherit rounded-full px-2 font-mono font-semibold">
               MARKETPLACE
             </div>
           </div>
