@@ -28,11 +28,6 @@ const HomePage = () => {
                 <p className="text-lg text-white font-mono font-semibold">VIDEO GUIDE</p>
               </a>
           </div>
-          <div className="my-6 relative h-[1px] w-full flex-shrink-0 bg-[#e85a4f] xs:mb-2">
-            <div className="absolute right-1/2 bottom-1/2 translate-x-1/2 translate-y-1/2 text-black bg-inherit rounded-full px-2 font-mono font-semibold">
-              MARKETPLACE
-            </div>
-          </div>
           <div className="my-4 mx-auto xs:my-2">
             <p className="text-center bg-[#e85a4f] px-2 font-mono font-semibold rounded-full inline-block xxs:text-xs">
               ⬇⬇⬇ Here you can buy some cool NFTs ⬇⬇⬇
