@@ -19,13 +19,13 @@ const HomePage = () => {
       )}
       {signer && (
         <>
-          <div className="flex items-center justify-center my-6 w-full xs:mb-2">
+          <div className="flex items-center justify-center mt-6 w-full xs:mb-2">
               <a
               href="https://www.youtube.com/channel/UC_7OQZMa8eHONCjMklrYvZg"
               target="_blank"
               className="bg-[#e85a4f] rounded-full px-2"
               >
-                <p className="text-lg font-mono font-semibold">VIDEO GUIDE</p>
+                <p className="text-lg text-white font-mono font-semibold">VIDEO GUIDE</p>
               </a>
           </div>
           <div className="my-6 relative h-[1px] w-full flex-shrink-0 bg-[#e85a4f] xs:mb-2">
