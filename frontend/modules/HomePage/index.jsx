@@ -21,7 +21,7 @@ const HomePage = () => {
         <>
           <div className="flex items-center justify-center my-4 w-full xs:mb-2">
               <a
-              href="https://www.youtube.com/channel/UC_7OQZMa8eHONCjMklrYvZg"
+              href="https://youtu.be/VB2EB1s_jOg"
               target="_blank"
               className="bg-[#e85a4f] rounded-full px-2"
               >
